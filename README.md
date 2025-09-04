@@ -16,3 +16,5 @@ This project demonstrates how to deploy WordPress securely on AWS using a **Publ
 - **AWS VPC, Subnet, Route Table, NAT Gateway, Internet Gateway**
 - **EC2 (Nginx, Apache, MySQL, WordPress)**
 
+## Result
+![Result](images/result.png)
