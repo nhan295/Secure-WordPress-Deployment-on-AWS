@@ -15,6 +15,15 @@
     -   No public IP needed
 6.  Create 2 route tables and associate them with the respective
     subnets.
+    - Private subnet route tables
+    ![Private-route-tables](docs/private_route_table.jpg)
+    - Private Security Group setup
+    ![Private-SG](docs/sg_private_subnet.jpg)
+    - Public subnet route tables
+    ![Public-route-tables](docs/public_route_table.jpg)
+    - Public Security Group setup
+    ![Public-SG](docs/sg_public_subnet.jpg)
+   
 
 ### SSH Access
 
