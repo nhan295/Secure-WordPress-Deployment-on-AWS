@@ -11,6 +11,7 @@ This project demonstrates how to deploy WordPress securely on AWS using a **Publ
 
 ## 🏗️ Architecture
 ![VPC Architecture](images/vpc-architecture.png)
+![VPC Architecture](images/vpc-architecture_1.png)
 
 ## ⚙️ Tech Stack
 - **AWS VPC, Subnet, Route Table, NAT Gateway, Internet Gateway**
