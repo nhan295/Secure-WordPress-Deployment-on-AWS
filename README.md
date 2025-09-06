@@ -10,7 +10,7 @@ This project demonstrates how to deploy WordPress securely on AWS using a **Publ
 - Internet Gateway: provides external access only to the Public Subnet.
 
 ## 🏗️ Architecture
-![VPC Architecture](architecture/vpc-architecture.png)
+![VPC Architecture](images/vpc-architecture.png)
 
 ## ⚙️ Tech Stack
 - **AWS VPC, Subnet, Route Table, NAT Gateway, Internet Gateway**
